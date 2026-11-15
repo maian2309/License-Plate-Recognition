@@ -9,3 +9,10 @@ cache_ch.jpg
 edge.jpg
 line.jpg
 crop.jpg
+
+# Them boi Dinh Mai An
+output/
+.venv/
+venv/
+__pycache__/
+*.pyc
